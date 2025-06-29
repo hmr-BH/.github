@@ -13,20 +13,7 @@
  - 见“总技术路线”
 
 ## 如何开始？
-您需要安装最新版本的Anaconda，然后打开`Anaconda Prompt`，并运行以下命令：
-
-```console
-$ conda create -n swarmclone python=3.10.6
-$ conda activate swarmclone
-```
-
-然后切换到项目的根目录，并运行以下命令：
-
-```console
-$ python get_req.py
-```
-
-如果遇到网络问题，您可以尝试手动下载.whl文件并安装。
+见[主仓库](https://github.com/swarmclone/SwarmClone)。
 
 
 ## 如何参与开发？
@@ -36,7 +23,7 @@ $ python get_req.py
 ## 总技术路线：
 1) 大语言模型搭建（见[MiniLM2](https://github.com/swarmclone/MiniLM2)）*已基本完成*
 2) 微调（数据来源：魔改COIG-CQIA等）*阶段性完成*
-3) 虚拟形象（设定：见`设定.txt`）*进行中*
+3) 虚拟形象*进行中*
 4) 直播画面（形式：Unity驱动的Live2D）*进行中*
 5) 技术整合（对语言大模型、语音模型、虚拟形象、语音输入等，统一调度）*进行中*
 6) 接入直播平台
