@@ -14,7 +14,7 @@
 We are an open-source community dedicated to creating a **fully transparent, highly customizable** framework for AI virtual streamer development. Our solution provides developers and researchers with an end-to-end toolkit - from model training to live deployment - empowering anyone to build intelligent streamers capable of real-time interaction on platforms like Bilibili and Twitch.
 
 ### Core Value Proposition
-| Feature | Capabilities | Developer Benefits |
+| Feature | Description | Benefits |
 |---------|--------------|---------------------|
 | **🧱 Autonomous Architecture** | 100% open-source from core logic to application layer | Full control with zero black-box components |
 | **🔄 Flexible Model Support** | Compatible with MiniLM2/ChatGPT/Claude models<br>Local & API deployment options | Freedom to choose optimal AI engine |
@@ -40,11 +40,11 @@ Whether you're a framework developer, model trainer, frontend/graphics engineer,
 ---
 
 # Technology Stack & Roadmap
-1) Core LLM Development ([MiniLM2](https://github.com/swarmclone/MiniLM2)) *Completed*
-2) Model Fine-tuning (Data: Modified COIG-CQIA etc.) *Stage Complete*
-3) Virtual Avatar (Character setup: see `设定.txt`) *In Progress*
-4) Streaming Display (Implementation: Unity-driven Live2D) *In Progress*
-5) System Integration (Coordinating LLM, TTS, Avatar, STT) *In Progress*
+1) Core LLM Development ([MiniLM2](https://github.com/swarmclone/MiniLM2)) ✅*Completed*
+2) Model Fine-tuning (Data: Modified COIG-CQIA etc.) ⚡*Stage Complete*
+3) Virtual Avatar (Character setup: see `设定.txt`) 🚧*In Progress*
+4) Streaming Display (Implementation: Unity-driven Live2D) 🚧*In Progress*
+5) System Integration (Coordinating LLM, TTS, Avatar, STT) 🚧*In Progress*
 6) Platform Integration (Bilibili/Twitch)
 7) Advanced Features:
     - Long-term Memory (RAG)
